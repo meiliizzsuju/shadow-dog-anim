@@ -1,0 +1,17 @@
+#canvas1{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 600px;
+  height: 600px;
+}
+
+select#animations{
+  display: block;
+  margin: 3rem auto 1rem;
+}
+
+select,option{
+  font-size: 24px;
+}
